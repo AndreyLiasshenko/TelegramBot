@@ -1,5 +1,5 @@
 import telebot
-bot = telebot.TeleBot("5397350411:AAElGBRUyIGrBFZYIdNWPQxHmOowNuY_fyA")
+bot = telebot.TeleBot("Token")
 admin = 1053183238
 a = telebot.types.ReplyKeyboardRemove()
 name = ""
