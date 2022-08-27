@@ -1,6 +1,6 @@
 import telebot
 bot = telebot.TeleBot("Token")
-admin = 1053183238
+admin = id
 a = telebot.types.ReplyKeyboardRemove()
 name = ""
 city = ""
